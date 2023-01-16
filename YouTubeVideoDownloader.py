@@ -33,9 +33,9 @@ def our_command(what):
             about.grid(row=0, column=0)
             about.place(rely=-0.06, relx=-0.06, anchor="nw")
 
-            text = Message(root1, text='The YouTube Video Downloader\nVersion 1.0 2021\nLakshya Chourasia.\nAll right '
-                                     'reserved.\n\nThe YouTube Video Downloader is completely owned by Lakshya Chourasia ('
-                                     'B.Tech). This application is made using Tkinter GUI of Python(V 3.0) with '
+            text = Message(root1, text='The YouTube Video Downloader\nVersion 1.0 2021\nLakshya Chourasia and Jagrati Pachori.\nAll right '
+                                     'reserved.\n\nThe YouTube Video Downloader is completely owned by Lakshya Chourasia and Jagrati Pachori.'
+                                     ' This application is made using Tkinter GUI of Python(V 3.0) with '
                                      'the help of Pycharm - Community 2020.3.', bg="gray19", fg="gray89",
                          width=370, justify=LEFT, padx=3)
             text.grid(row=1, column=1, ipadx=500)
